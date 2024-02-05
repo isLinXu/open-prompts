@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/Social-Media.md",
+                "file": "prompts/Finance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prompts/Social-Media.md",
+                "file": "prompts/Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prompts/Social-Media.md",
+                "file": "prompts/Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompts/Social-Media.md"
+                "file": "prompts/Finance.md"
               }
             }
           }
@@ -146,13 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2fb5ed34b863aadf",
+  "active": "752115b507fff631",
   "lastOpenFiles": [
+    "prompts/Investing.md",
+    "prompts/Investing~.md",
+    "prompts/Social-Media.md",
+    "prompts/Law.md",
+    "prompts/Finance.md",
+    "未命名.md",
     "prompts/Business.md",
     "prompts/Debt.md",
-    "prompts/Finance.md",
-    "prompts/Law.md",
-    "prompts/Social-Media.md",
     "prompts/Business~.md"
   ]
 }
