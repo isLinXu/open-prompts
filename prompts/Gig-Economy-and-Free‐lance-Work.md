@@ -1,4 +1,4 @@
-# Gig-Economy-and-Free‐lance-Work Prompts
+# Gig-Economy-and-Free‐lance-Work
 
 ---
 
